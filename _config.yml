@@ -1,7 +1,7 @@
 # Site settings
-title: Horus, IOT without infrastructure change
-tag_text: Horus
-description: Horus is a Senior Design Project(CS 491) which aims to be an interim technology connecting current sensor tracking infrastrucre to the cloud. 
+title: CS 353-Group 9 
+tag_text: CS 353 - Group 9 
+description: CS 353 project landing website
 
 # Build settings
 markdown: kramdown
