@@ -11,7 +11,7 @@ The airline company data management system is a system that is designed to provi
 ## Team
 
 * Nihat Eren Ekici
-* Kaan Turan Elgin
+* Turan Kaan Elgin
 * Irem Ergun
 * Omer Eren
 
