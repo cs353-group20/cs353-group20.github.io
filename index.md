@@ -15,5 +15,4 @@ The airline company data management system is a system that is designed to provi
 
 ### Reports
 
-* Proje pdfini githuba yukleyince linki buraya atariz, ornek format asagida
-* [Project Specification Report](https://github.com/horus-bilkent/horus-bilkent.github.io/raw/master/specreport.pdf)
+* [Project Proposal Report](https://github.com/cs353group20/cs353group20.github.io/raw/master/proposal.docx)
