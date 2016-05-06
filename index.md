@@ -17,3 +17,5 @@ The airline company data management system is a system that is designed to provi
 
 * [Project Proposal Report](https://github.com/cs353group20/cs353group20.github.io/raw/master/proposal.docx)
 * [Project Design Report](https://github.com/cs353group20/cs353group20.github.io/raw/master/design.pdf)
+* [Project Final Report](https://github.com/cs353group20/cs353group20.github.io/raw/master/final.pdf)
+
